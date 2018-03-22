@@ -1,2 +1,2 @@
-# Lab5
-Lab 5 for course DIG3480. By Henry Glaspie
+# JSPlatformer
+JS Platformer for DIG 3480C
